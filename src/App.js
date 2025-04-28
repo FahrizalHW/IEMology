@@ -94,7 +94,7 @@ function App() {
     <Router>
       <div className="app">
         <header className="app-header">
-          <h1>IEM Review Catalog</h1>
+          <h1>IEM Review </h1>
           <nav>
             <Link to="/">Home</Link>
             <Link to="/add">Add New IEM</Link>
