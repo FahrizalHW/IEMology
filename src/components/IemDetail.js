@@ -31,6 +31,7 @@ function IemDetail({ iems, onAddReview }) {
     
     onAddReview(iem.id, newReview);
     
+    // Reset the form
     setNewReview({
       user: '',
       text: '',

@@ -23,4 +23,3 @@ function StarRating({ rating }) {
 }
 
 export default StarRating;
-
